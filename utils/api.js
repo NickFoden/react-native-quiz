@@ -31,3 +31,7 @@ const initialData = {
     ]
   }
 };
+
+export const getData = () => {
+  return initialData;
+};

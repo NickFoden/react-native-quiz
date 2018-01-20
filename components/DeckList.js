@@ -12,6 +12,7 @@ class DeckList extends React.Component {
           return (
             <View key={deck}>
               <Text>{title}</Text>
+              <Text>{questions.length}</Text>
             </View>
           );
         })}

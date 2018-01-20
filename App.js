@@ -20,3 +20,5 @@ const styles = StyleSheet.create({
     justifyContent: "center"
   }
 });
+
+// https://youtu.be/_b6F0KiFpG8?t=22m44s
